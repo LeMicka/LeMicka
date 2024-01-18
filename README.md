@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mickael Bruzzi</h1>
-<h3 align="center">A programmer always looking to learn more.</h3>
+<h3 align="center">A programmer using C and C++.</h3>
 
 - 🔭 I’m currently working on **the advent of code 2023**
 
