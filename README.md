@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mickael Bruzzi</h1>
-<h3 align="center">A programmer using C and C++.</h3>
+<h3 align="center">A programmer using C, C++ and Python.</h3>
 
 - 🔭 I’m currently working on **the advent of code 2023**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
